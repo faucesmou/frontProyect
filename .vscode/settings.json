@@ -1,0 +1,24 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#3100b9",
+        "activityBar.activeBorder": "#faee45",
+        "activityBar.background": "#3100b9",
+        "activityBar.foreground": "#c1c3c5",
+        "activityBar.inactiveForeground": "#c1c3c5",
+        "activityBarBadge.background": "#6f1fb1",
+        "activityBarBadge.foreground": "#c1c3c5",
+        "sash.hoverBorder": "#3100b9",
+        "statusBar.background": "#3100b9",
+        "statusBar.foreground": "#c1c3c5",
+        "statusBarItem.hoverBackground": "#3100b9",
+        "statusBarItem.remoteBackground": "#3100b9",
+        "statusBarItem.remoteForeground": "#c1c3c5",
+        "titleBar.activeBackground": "#3100b9",
+        "titleBar.activeForeground": "#c1c3c5",
+        "titleBar.inactiveBackground": "#3100b9",
+        "titleBar.inactiveForeground": "#c1c3c5"
+    },
+    "peacock.color": "#61dafb",
+    "vscode-pets.position": "explorer",
+    /* "CodeGPT.apiKey": "CodeGPT Plus Beta" */
+}
